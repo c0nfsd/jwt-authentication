@@ -1,5 +1,5 @@
 package initializers
 
-func ConnectToDB(){
-	
+func ConnectToDB() {
+
 }
